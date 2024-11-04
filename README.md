@@ -1,2 +1,2 @@
-# Fork This!
-Click the fork button to make your own copy of the repository, which will duplicate the files!
+# Let's make a repository with this template!
+Click the "Use this Template" button!
